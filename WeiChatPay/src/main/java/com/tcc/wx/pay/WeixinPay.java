@@ -27,7 +27,7 @@ private static final int WHITE = 0xFFFFFFFF;
 /** 
 * 获取微信支付的二维码地址 
 * @return 
-* @author chenp 
+* @author tcc 
 * @throws Exception 
 */  
 public static String getCodeUrl(WeChatParams ps) throws Exception {    
@@ -80,7 +80,7 @@ public static String getCodeUrl(WeChatParams ps) throws Exception {
 
   /** 
    * 将路径生成二维码图片 
-   * @author chenp 
+   * @author tcc 
    * @param content 
    * @param response 
    */  
@@ -107,7 +107,7 @@ public static String getCodeUrl(WeChatParams ps) throws Exception {
  }  
   /** 
   * 类型转换 
-  * @author chenp 
+  * @author tcc 
   * @param matrix 
   * @return 
   */  

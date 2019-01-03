@@ -3,7 +3,7 @@ package com.tcc.wx.pay;
 /**
  * 微信支付需要的一些参数
  * 
- * @author chenp
+ * @author tcc
  * 
  */
 // @Data//此注解代替了set、get方法，如果不想用这个注解也可以自己写set、get方法。

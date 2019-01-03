@@ -3,7 +3,7 @@ package com.tcc.wx.pay;
 
 /** 
  * 微信支付配置文件 
- * @author chenp 
+ * @author tcc
  * 
  */  
 public class WeChatConfig {  
